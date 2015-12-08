@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronMqChatService", "IronMqChatService\IronMqChatService.csproj", "{32630A18-192D-4F79-A735-859C5E263471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubNubChatService", "PubNubChatService\PubNubChatService.csproj", "{75239A7A-9724-4A54-BDA1-34380D639D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropBoxImageService", "DropBoxImageService\DropBoxImageService.csproj", "{31C1C860-3E21-472F-B6A4-FF7904FAF5A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32630A18-192D-4F79-A735-859C5E263471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32630A18-192D-4F79-A735-859C5E263471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32630A18-192D-4F79-A735-859C5E263471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32630A18-192D-4F79-A735-859C5E263471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75239A7A-9724-4A54-BDA1-34380D639D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75239A7A-9724-4A54-BDA1-34380D639D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75239A7A-9724-4A54-BDA1-34380D639D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75239A7A-9724-4A54-BDA1-34380D639D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C1C860-3E21-472F-B6A4-FF7904FAF5A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C1C860-3E21-472F-B6A4-FF7904FAF5A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C1C860-3E21-472F-B6A4-FF7904FAF5A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C1C860-3E21-472F-B6A4-FF7904FAF5A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

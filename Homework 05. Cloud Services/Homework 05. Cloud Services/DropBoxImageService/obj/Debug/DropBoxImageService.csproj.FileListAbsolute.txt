@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 05. Cloud Services\DropBoxImageService\bin\Debug\DropBoxImageService.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 05. Cloud Services\DropBoxImageService\obj\Debug\DropBoxImageService.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 05. Cloud Services\DropBoxImageService\bin\Debug\DropBoxImageService.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 05. Cloud Services\DropBoxImageService\bin\Debug\DropBoxImageService.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 05. Cloud Services\DropBoxImageService\obj\Debug\DropBoxImageService.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\Homework 05. Cloud Services\DropBoxImageService\obj\Debug\DropBoxImageService.pdb
